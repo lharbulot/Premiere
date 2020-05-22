@@ -1,0 +1,10 @@
+name: turtle-environement
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - math
+  - random
+  - turtle
+  - pylab
+  - matplotlib
